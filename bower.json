@@ -1,0 +1,21 @@
+{
+  "name": "contact-app",
+  "description": "MEAN - Full stack application",
+  "main": "server.js",
+  "license": "ISC",
+  "keywords": [
+    "Mongo",
+    "Express",
+    "Angular",
+    "and",
+    "Node"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-route": "^1.5.0",
+    "bootstrap": "^3.3.6",
+    "angular-resource": "^1.5.0"
+  }
+}
